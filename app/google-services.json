@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "952303339941",
+    "project_id": "addretriveimagefirebase",
+    "storage_bucket": "addretriveimagefirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952303339941:android:3392881bf9720672f0404c",
+        "android_client_info": {
+          "package_name": "madhuri.com.addretriveimagefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952303339941-7i0ktdp63noe10mh50bo2ai4o9k62ntl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzMndQ_ETqP6LT22AUfx9u8gz50VdgwFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952303339941-7i0ktdp63noe10mh50bo2ai4o9k62ntl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
